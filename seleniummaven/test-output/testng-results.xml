@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27233" started-at="2019-01-06T12:44:52Z" finished-at="2019-01-06T12:45:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27233" started-at="2019-01-06T12:44:52Z" finished-at="2019-01-06T12:45:20Z">
+      <class name="com.nttdata.regression.RegressionTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.nttdata.regression.RegressionTest@5622fdf]" name="browserLaunch" is-config="true" duration-ms="5387" started-at="2019-01-06T12:44:52Z" finished-at="2019-01-06T12:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="allquestions()[pri:-1, instance:com.nttdata.regression.RegressionTest@5622fdf]" name="allquestions" duration-ms="20237" started-at="2019-01-06T12:44:58Z" finished-at="2019-01-06T12:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allquestions -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.nttdata.regression.RegressionTest@5622fdf]" name="closebrowser" is-config="true" duration-ms="1554" started-at="2019-01-06T12:45:18Z" finished-at="2019-01-06T12:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.nttdata.regression.RegressionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

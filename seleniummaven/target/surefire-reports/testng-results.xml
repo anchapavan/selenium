@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.nttdata.regression.RegressionTest" duration-ms="68977" started-at="2019-01-05T12:35:21Z" finished-at="2019-01-05T12:36:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="68977" started-at="2019-01-05T12:35:21Z" finished-at="2019-01-05T12:36:30Z">
+      <class name="com.nttdata.regression.RegressionTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="browserLaunch" is-config="true" duration-ms="18219" started-at="2019-01-05T18:05:21Z" finished-at="2019-01-05T18:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="allquestions()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="allquestions" duration-ms="30087" started-at="2019-01-05T18:05:40Z" finished-at="2019-01-05T18:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allquestions -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="closebrowser" is-config="true" duration-ms="1244" started-at="2019-01-05T18:06:10Z" finished-at="2019-01-05T18:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="browserLaunch" is-config="true" duration-ms="5425" started-at="2019-01-05T18:06:11Z" finished-at="2019-01-05T18:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="TC_002_LangauageAlret()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="TC_002_LangauageAlret" duration-ms="13164" started-at="2019-01-05T18:06:16Z" finished-at="2019-01-05T18:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_LangauageAlret -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.nttdata.regression.RegressionTest@13969fbe]" name="closebrowser" is-config="true" duration-ms="823" started-at="2019-01-05T18:06:29Z" finished-at="2019-01-05T18:06:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.nttdata.regression.RegressionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.nttdata.regression.RegressionTest -->
+</testng-results>
